@@ -1,0 +1,15 @@
+2020-02-17/22:47:22		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-17/22:47:27		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-17/22:47:34		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2020-02-17/22:48:21		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-17/22:48:21		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-17/22:48:21		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2020-02-18/02:40:55		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-18/02:40:55		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-18/02:40:55		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/forest_cover_28011991_120211.csv'
+2020-02-18/02:41:02		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-18/02:41:02		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-18/02:41:02		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2020-04-16/14:34:49		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-04-16/14:34:49		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-04-16/14:34:49		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv

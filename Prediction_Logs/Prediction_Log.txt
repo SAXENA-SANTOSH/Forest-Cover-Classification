@@ -1,0 +1,83 @@
+2020-02-17/22:48:21		Start of Validation on files for prediction!!
+2020-02-17/22:48:21		Raw Data Validation Complete!!
+2020-02-17/22:48:21		Starting Data Transforamtion!!
+2020-02-17/22:48:21		DataTransformation Completed!!!
+2020-02-17/22:48:21		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-17/22:48:45		Table creation Completed!!
+2020-02-17/22:48:45		Insertion of Data into Table started!!!!
+2020-02-17/22:49:50		Insertion in Table completed!!!
+2020-02-17/22:49:50		Deleting Good Data Folder!!!
+2020-02-17/22:49:50		Good_Data folder deleted!!!
+2020-02-17/22:49:50		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-17/22:49:50		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-17/22:49:50		Validation Operation completed!!
+2020-02-17/22:49:50		Extracting csv file from table
+2020-02-17/22:50:00		Start of Prediction
+2020-02-17/22:50:01		Entered the get_data method of the Data_Getter class
+2020-02-17/22:50:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-17/22:50:09		Entered the load_model method of the File_Operation class
+2020-02-17/22:50:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-17/22:50:21		Entered the find_correct_model_file method of the File_Operation class
+2020-02-17/22:50:21		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-17/22:50:21		Entered the load_model method of the File_Operation class
+2020-02-17/22:50:21		Model File XGBoost2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-17/22:50:26		End of Prediction
+2020-02-17/22:54:25		Start of Prediction
+2020-02-17/22:54:25		Entered the get_data method of the Data_Getter class
+2020-02-17/22:54:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-17/22:54:25		Entered the load_model method of the File_Operation class
+2020-02-17/22:54:25		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-17/22:54:25		Entered the find_correct_model_file method of the File_Operation class
+2020-02-17/22:54:25		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-17/22:54:25		Entered the load_model method of the File_Operation class
+2020-02-17/22:54:25		Model File XGBoost2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-17/22:54:26		End of Prediction
+2020-02-18/02:40:55		Start of Validation on files for prediction!!
+2020-02-18/02:41:02		Start of Validation on files for prediction!!
+2020-02-18/02:41:02		Raw Data Validation Complete!!
+2020-02-18/02:41:02		Starting Data Transforamtion!!
+2020-02-18/02:41:02		DataTransformation Completed!!!
+2020-02-18/02:41:02		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-18/02:41:04		Table creation Completed!!
+2020-02-18/02:41:04		Insertion of Data into Table started!!!!
+2020-02-18/02:41:09		Insertion in Table completed!!!
+2020-02-18/02:41:09		Deleting Good Data Folder!!!
+2020-02-18/02:41:09		Good_Data folder deleted!!!
+2020-02-18/02:41:09		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-18/02:41:09		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-18/02:41:09		Validation Operation completed!!
+2020-02-18/02:41:09		Extracting csv file from table
+2020-02-18/02:41:09		Start of Prediction
+2020-02-18/02:41:09		Entered the get_data method of the Data_Getter class
+2020-02-18/02:41:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-18/02:41:09		Entered the load_model method of the File_Operation class
+2020-02-18/02:41:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-18/02:41:09		Entered the find_correct_model_file method of the File_Operation class
+2020-02-18/02:41:09		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-18/02:41:09		Entered the load_model method of the File_Operation class
+2020-02-18/02:41:09		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-18/02:41:10		End of Prediction
+2020-04-16/14:34:49		Start of Validation on files for prediction!!
+2020-04-16/14:34:49		Raw Data Validation Complete!!
+2020-04-16/14:34:49		Starting Data Transforamtion!!
+2020-04-16/14:34:49		DataTransformation Completed!!!
+2020-04-16/14:34:49		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-04-16/14:34:56		Table creation Completed!!
+2020-04-16/14:34:56		Insertion of Data into Table started!!!!
+2020-04-16/14:35:15		Insertion in Table completed!!!
+2020-04-16/14:35:15		Deleting Good Data Folder!!!
+2020-04-16/14:35:15		Good_Data folder deleted!!!
+2020-04-16/14:35:15		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-04-16/14:35:15		Bad files moved to archive!! Bad folder Deleted!!
+2020-04-16/14:35:15		Validation Operation completed!!
+2020-04-16/14:35:15		Extracting csv file from table
+2020-04-16/14:35:15		Start of Prediction
+2020-04-16/14:35:15		Entered the get_data method of the Data_Getter class
+2020-04-16/14:35:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-04-16/14:35:15		Entered the load_model method of the File_Operation class
+2020-04-16/14:35:15		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-04-16/14:35:15		Entered the find_correct_model_file method of the File_Operation class
+2020-04-16/14:35:15		Exited the find_correct_model_file method of the Model_Finder class.
+2020-04-16/14:35:15		Entered the load_model method of the File_Operation class
+2020-04-16/14:35:15		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-04-16/14:35:15		End of Prediction
